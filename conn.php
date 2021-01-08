@@ -4,7 +4,7 @@
 		
 		private $db_type = "mysql"; //Data Base type
 		private $host = "localhost"; //Host
-		private $db_name = "dbName"; //Name of thwe DB
+		private $db_name = "dbName"; //Name of the DB
 		private $db_user = "root"; //User of the DB
 		private $db_pass = ""; //Password of DB
 		private $config_char = "utf8"; //type of charset
